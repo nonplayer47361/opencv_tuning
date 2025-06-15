@@ -1,7 +1,8 @@
-opencv-python 
-numpy 
-scikit-image 
-pandas 
-matplotlib 
-seaborn 
+# requirements.txt
+opencv-python
+numpy
+scikit-image
+pandas
+matplotlib
+seaborn
 pyarrow
